@@ -1,5 +1,15 @@
-h1{
-    font-size: x-large;
-    color: blue;
+
+
+img{
+    width: 25%;
+    
 }
 
+
+h3{
+    text-decoration: underline;
+}
+
+h1,h2, img, div{
+    text-align: center;
+}
